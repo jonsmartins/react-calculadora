@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/projetos-react/static/css/main.eb34b4a7.css",
-    "main.js": "/projetos-react/static/js/main.2b4b30d8.js",
-    "static/js/787.5a4371c1.chunk.js": "/projetos-react/static/js/787.5a4371c1.chunk.js",
-    "static/media/RobotoMono-Thin.ttf": "/projetos-react/static/media/RobotoMono-Thin.30914900129fa3d2d85b.ttf",
-    "index.html": "/projetos-react/index.html",
-    "main.eb34b4a7.css.map": "/projetos-react/static/css/main.eb34b4a7.css.map",
-    "main.2b4b30d8.js.map": "/projetos-react/static/js/main.2b4b30d8.js.map",
-    "787.5a4371c1.chunk.js.map": "/projetos-react/static/js/787.5a4371c1.chunk.js.map"
+    "main.css": "/react-calculadora/static/css/main.86caddef.css",
+    "main.js": "/react-calculadora/static/js/main.8854a0b2.js",
+    "static/js/787.5a4371c1.chunk.js": "/react-calculadora/static/js/787.5a4371c1.chunk.js",
+    "static/media/RobotoMono-Thin.ttf": "/react-calculadora/static/media/RobotoMono-Thin.30914900129fa3d2d85b.ttf",
+    "index.html": "/react-calculadora/index.html",
+    "main.86caddef.css.map": "/react-calculadora/static/css/main.86caddef.css.map",
+    "main.8854a0b2.js.map": "/react-calculadora/static/js/main.8854a0b2.js.map",
+    "787.5a4371c1.chunk.js.map": "/react-calculadora/static/js/787.5a4371c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb34b4a7.css",
-    "static/js/main.2b4b30d8.js"
+    "static/css/main.86caddef.css",
+    "static/js/main.8854a0b2.js"
   ]
 }
