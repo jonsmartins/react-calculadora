@@ -10,7 +10,7 @@ root.render(
     <div>
       <h1>Calculadora</h1>
       <Calculator/>
-      <h3>Desenvolvida usando Reactjs</h3>
+      <h3>Desenvolvida em Reactjs</h3>
     </div>
   </React.StrictMode>
 );
